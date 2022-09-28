@@ -1,70 +1,162 @@
-# Getting Started with Create React App
+[![Contributors][contributors-shield]][contributors-url]
+[![Languages][languages-shield]][languages-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<!-- PROJECT LOGO & HEADER -->
+<br />
+<p align="center">
+  <a href="#">
+    <img src="#" alt="Logo" width="50%">
+  </a>
 
-In the project directory, you can run:
+  <h3 align="center">Title</h3>
 
-### `npm start`
+  <p align="center">
+    Summary of project/repository.
+    <br />
+    <br />
+    <a href="https://github.com/alynapchuk/REPONAME/issues">Report Bug or Request Feature</a>
+  </p>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<u>Key Focuses</u>
+* Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* Habitant morbi tristique senectus et netus et malesuada.
+* Ipsum a arcu cursus vitae congue mauris rhoncus aenean. Auctor elit sed vulputate mi sit.
 
-### `npm run eject`
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Built With
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* [Example](#)
+* [Example](#)
+* [Example](#)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- GETTING STARTED -->
+## Getting Started
 
-### Code Splitting
+This is how you may set up this project locally. To get a local copy up and running follow these simple example steps.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Prerequisites
 
-### Analyzing the Bundle Size
+Get a free API Key at [API Website](#)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Install npm
 
-### Making a Progressive Web App
+  ```sh
+  npm install npm@latest -g
+  ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Installation
 
-### Advanced Configuration
+Clone the Repository
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+   ```sh
+   git clone https://github.com/alynapchuk/REPONAME.git
+   ```
+   
+Install NPM packages
 
-### Deployment
+   ```sh
+   npm install
+   ```
+   
+Enter your API in `config.js`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+   ```JS
+   const API_KEY = 'ENTER YOUR API';
+   ```
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/alynapchuk/REPONAME/issues) for a list of proposed features (and known issues).
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Branch (`git checkout -b yourbranch/Contribution`)
+3. Commit your Changes (`git commit -m 'added amazing feature'`)
+4. Push to the Branch (`git push origin yourbranch/Contribution`)
+5. Open a Pull Request
+
+
+
+<!-- CONTACT -->
+## Contact
+Alyna Palamarchuk - [Portfolio](https://alynapchuk.com) - [Twitter](https://twitter.com/alynapchuk) - alynapchuk@gmail.com
+
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+[GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet) - [Img Shields](https://shields.io) - [Choose an Open Source License](https://choosealicense.com) - [GitHub Pages](https://pages.github.com) - [Animate.css](https://daneden.github.io/animate.css) - [Loaders.css](https://connoratherton.com/loaders) - [Slick Carousel](https://kenwheeler.github.io/slick) - [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll) - [Sticky Kit](http://leafo.net/sticky-kit) - [JVectorMap](http://jvectormap.com) - [Font Awesome](https://fontawesome.com)
+
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/alynapchuk/REPONAME?color=219ebc&style=for-the-badge
+[contributors-url]: #
+
+[languages-shield]: https://img.shields.io/github/languages/count/alynapchuk/REPONAME?color=90ab60&style=for-the-badge
+[languages-url]: #
+
+[forks-shield]: https://img.shields.io/github/forks/alynapchuk/REPONAME?color=f5af00&style=for-the-badge
+[forks-url]: #
+
+[issues-shield]: https://img.shields.io/bitbucket/issues-raw/alynapchuk/REPONAME?style=for-the-badge
+[issues-url]: #
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/alynapchuk/
+
+[product-screenshot]: images/screenshot.png
