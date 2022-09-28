@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="src/images/fetchlogo.jpg" alt="Logo" width="50%">
+    <img src="src/images/fetchlogo.png" alt="Logo" width="50%">
   </a>
 
   <h3 align="center">Fetch</h3>
