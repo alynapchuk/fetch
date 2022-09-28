@@ -159,4 +159,4 @@ Alyna Palamarchuk - [Portfolio](https://alynapchuk.com) - [Twitter](https://twit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/alynapchuk/
 
-[product-screenshot]: src/images/fetchlogo.png
+[product-screenshot]: src/images/logo.jpg
