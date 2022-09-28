@@ -1,13 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+html,
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  text-align: center;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+* {
+  font-family: 'Readex Pro', sans-serif;
+}
+
+h2 {
+  font-style: italic;
+}
+
+.primary-button {
+  color: #fff;
+  font-size: 15px;
+  background-color: #344966;
+  padding: 12px 30px;
+  border-radius: 30px;
+  border: none;
+}
+
+.primary-button:hover {
+  background: #213144;
+}
+
+.secondary-button {
+  color: white;
+  background-color: #344966;
+  font-weight: 500px;
+  font-size: 15px;
+  padding: 12px 30px;
+  border-radius: 30px;
+  border: none;
+  margin: 6px;
+}
+
+.secondary-button:hover {
+  background-color: #213144;
+}
+
+/* ---- Navbar ---- */
+
+nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav .nav-button {
+  color: white;
+  background-color: #344966;
+  font-size: 20px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+  margin: 10px;
+  height: 50%;
+}
+
+nav .nav-button:disabled {
+  background-color: #213144;
+  color: white;
+}
+
+nav .nav-button:hover {
+  background: #213144;
+}
+
+nav .logo-container {
+  width: 500px;
+  margin: 15px;
+}
+
+nav .logo-container .logo {
+  width: 100%;
+}
+
+/* ---- Home ---- */
+
+.primary-title {
+  color: white;
+}
+
+.overlay {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  background-color: ;
+  background: linear-gradient(to bottom,
+      #576981 0%,
+      rgba(255, 255, 255, 0.65) 100%)
+}
+
+/* ---- AuthModal ---- */
+
+.auth-modal {
+  position: absolute;
+  background-color: white;
+  left: 0;
+  right: 0;
+  top: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 360px;
+  height: 600px;
+  border-radius: 10px;
+  padding: 40px;
+}
+
+.auth-modal .close-icon {
+  float: right;
+}
+
+.auth-modal form {
+  display: flex;
+  flex-direction: column;
+}
+
+.auth-modal input {
+  padding: 8px;
+  margin: 8px;
+  font-size: 17px;
 }
