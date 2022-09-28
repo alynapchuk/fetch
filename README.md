@@ -18,7 +18,7 @@
     Summary of project/repository.
     <br />
     <br />
-    <a href="https://github.com/alynapchuk/REPONAME/issues">Report Bug or Request Feature</a>
+    <a href="https://github.com/alynapchuk/fetch/issues">Report Bug or Request Feature</a>
   </p>
 </p>
 
@@ -93,7 +93,7 @@ Install npm
 Clone the Repository
 
    ```sh
-   git clone https://github.com/alynapchuk/REPONAME.git
+   git clone https://github.com/alynapchuk/fetch.git
    ```
    
 Install NPM packages
@@ -112,7 +112,7 @@ Enter your API in `config.js`
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/alynapchuk/REPONAME/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/alynapchuk/fetch/issues) for a list of proposed features (and known issues).
 
 
 
@@ -144,19 +144,19 @@ Alyna Palamarchuk - [Portfolio](https://alynapchuk.com) - [Twitter](https://twit
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/alynapchuk/REPONAME?color=219ebc&style=for-the-badge
-[contributors-url]: #
+[contributors-shield]: https://img.shields.io/github/contributors/alynapchuk/fetch?color=219ebc&style=for-the-badge
+[contributors-url]: https://github.com/alynapchuk/fetch/graphs/contributors
 
-[languages-shield]: https://img.shields.io/github/languages/count/alynapchuk/REPONAME?color=90ab60&style=for-the-badge
+[languages-shield]: https://img.shields.io/github/languages/count/alynapchuk/fetch?color=90ab60&style=for-the-badge
 [languages-url]: #
 
-[forks-shield]: https://img.shields.io/github/forks/alynapchuk/REPONAME?color=f5af00&style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/alynapchuk/fetch?color=f5af00&style=for-the-badge
 [forks-url]: #
 
-[issues-shield]: https://img.shields.io/bitbucket/issues-raw/alynapchuk/REPONAME?style=for-the-badge
+[issues-shield]: https://img.shields.io/bitbucket/issues-raw/alynapchuk/fetch?style=for-the-badge
 [issues-url]: #
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/alynapchuk/
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: src/images/fetchlogo.png
