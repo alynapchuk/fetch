@@ -8,11 +8,11 @@
 <!-- PROJECT LOGO & HEADER -->
 <br />
 <p align="center">
-  <a href="src/images/logo.jpg">
-    <img src="#" alt="Logo" width="50%">
+  <a href="">
+    <img src="src/images/fetchlogo.jpg" alt="Logo" width="50%">
   </a>
 
-  <h3 align="center">Title</h3>
+  <h3 align="center">Fetch</h3>
 
   <p align="center">
     Summary of project/repository.
